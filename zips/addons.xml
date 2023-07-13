@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="skin.armani-debrid" version="0.3.0" name="ArmaniFlix" provider-name="Sam">
+	<addon id="skin.armani-debrid" version="0.3.0" name="ArmaniFlix Skin" provider-name="Sisyphus Sam">
 		<requires>
 			<import addon="xbmc.gui" version="5.16.0"/>
 		</requires>
@@ -25,7 +25,7 @@
 			<description lang="en_GB">Stream nearly any movie or TV show.</description>
 		</extension>
 	</addon>
-	<addon id="plugin.video.armani" name="ArmaniFlix" provider-name="SisyphusSam" version="0.1.9">
+	<addon id="plugin.video.armani" name="ArmaniFlix Video" provider-name="Sisyphus Sam" version="0.1.9">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" version="2.19.1" />
