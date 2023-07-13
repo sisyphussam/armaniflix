@@ -3,6 +3,8 @@
 	<addon id="skin.armani-debrid" version="0.3.0" name="ArmaniFlix Skin" provider-name="Sisyphus Sam">
 		<requires>
 			<import addon="xbmc.gui" version="5.16.0"/>
+			<import addon="plugin.video.armani" version="0.1.9" />
+			<import addon="service.subtitles.a4ksubtitles" version="3.0.0" />
 		</requires>
 		<extension point="xbmc.gui.skin" debugging="false">
 			<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
