@@ -26,7 +26,7 @@
 			<description lang="en_GB">Stream nearly any movie or TV show.</description>
 		</extension>
 	</addon>
-	<addon id="plugin.video.armani" name="ArmaniFlix Video" provider-name="Sisyphus Sam" version="0.1.9">
+	<addon id="plugin.video.armani" name="ArmaniFlix Video" provider-name="Sisyphus Sam" version="0.1.91">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" version="2.19.1" />
